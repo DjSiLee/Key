@@ -1,0 +1,18 @@
+{
+  "format_version": 3,
+  "id": "com.mi.gboard.20171116",
+  "name": "Xiaomi theme",
+  "prefer_key_border": true,
+  "is_light_theme": true,
+  "style_sheets": [
+    "style_sheet_xiaomi.css"
+  ],
+  "flavors": [
+    {
+      "type": "BORDER",
+      "style_sheets": [
+        "style_sheet_xiaomi_border.css"
+      ]
+    }
+  ]
+}
